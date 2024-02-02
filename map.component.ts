@@ -23,7 +23,7 @@ import * as L from 'leaflet';
   }
 
   .custom-marker{
-    background:url("/assets/marker-blue.png");
+    background:url("/marker-blue.png");
   }
 
   .custom-marker{
