@@ -4,7 +4,9 @@ Leaflet map implementation in angular component.
 Functionalities: 
 
 Add markers
+
 Add polygons
+
 Add circles
 
 Requirements: 
