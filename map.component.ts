@@ -35,7 +35,6 @@ import * as L from 'leaflet';
 
 export class AppMapComponent implements OnInit {
 
-  private map!: mapboxgl.Map;
   leafletMap:any;
   @Input() input: string = '';
   currentCircle: L.Circle | null = null;
